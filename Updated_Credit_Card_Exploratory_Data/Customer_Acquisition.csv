@@ -1,0 +1,101 @@
+No,Customer,Age,City,Product,Company,Segment
+1,A1,76,BANGALORE,Gold,C1,"Self Employed"
+10,A10,54,CALCUTTA,Gold,C10,"Normal Salary"
+100,A100,36,COCHIN,Silver,C5,Salaried_MNC
+11,A11,35,COCHIN,Gold,C11,"Normal Salary"
+12,A12,51,BOMBAY,Gold,C12,"Self Employed"
+13,A13,29,BANGALORE,Gold,C13,Salaried_MNC
+14,A14,16,BANGALORE,Gold,C14,Salaried_Pvt
+15,A15,25,CALCUTTA,Gold,C15,Govt
+16,A16,52,COCHIN,Gold,C16,"Normal Salary"
+17,A17,78,BOMBAY,Gold,C17,"Self Employed"
+18,A18,34,BANGALORE,Silver,C18,Salaried_MNC
+19,A19,27,BANGALORE,Platimum,C19,Salaried_Pvt
+2,A2,71,CALCUTTA,Silver,C2,Salaried_MNC
+20,A20,27,CALCUTTA,Platimum,C20,Govt
+21,A21,57,COCHIN,Platimum,C21,"Normal Salary"
+22,A22,27,BOMBAY,Silver,C22,"Self Employed"
+23,A23,51,BANGALORE,Silver,C5,Salaried_MNC
+24,A24,53,DELHI,Silver,C6,Salaried_Pvt
+25,A25,35,COCHIN,Silver,C7,Govt
+26,A26,38,PATNA,Gold,C8,"Normal Salary"
+27,A27,24,CHENNAI,Gold,C9,"Self Employed"
+28,A28,36,TRIVANDRUM,Gold,C10,Salaried_MNC
+29,A29,72,CALCUTTA,Gold,C11,Salaried_Pvt
+3,A3,34,COCHIN,Platimum,C3,Salaried_Pvt
+30,A30,25,BANGALORE,Gold,C12,Govt
+31,A31,63,CALCUTTA,Gold,C13,"Normal Salary"
+32,A32,41,COCHIN,Gold,C14,"Self Employed"
+33,A33,19,BOMBAY,Platimum,C15,Salaried_MNC
+34,A34,34,CALCUTTA,Platimum,C16,Salaried_Pvt
+35,A35,55,COCHIN,Platimum,C17,Govt
+36,A36,60,BOMBAY,Platimum,C18,"Normal Salary"
+37,A37,61,BANGALORE,Platimum,C19,"Normal Salary"
+38,A38,47,CHENNAI,Platimum,C20,"Self Employed"
+39,A39,78,TRIVANDRUM,Platimum,C21,Salaried_MNC
+4,A4,47,BOMBAY,Platimum,C4,Govt
+40,A40,37,CALCUTTA,Platimum,C22,Salaried_Pvt
+41,A41,13,COCHIN,Platimum,C23,Govt
+42,A42,50,BOMBAY,Gold,C24,"Normal Salary"
+43,A43,21,BANGALORE,Gold,C25,"Self Employed"
+44,A44,28,DELHI,Gold,C6,Salaried_MNC
+45,A45,67,COCHIN,Gold,C7,Salaried_Pvt
+46,A46,49,PATNA,Silver,C8,Govt
+47,A47,28,CHENNAI,Platimum,C9,"Normal Salary"
+48,A48,42,TRIVANDRUM,Platimum,C10,"Self Employed"
+49,A49,39,CALCUTTA,Platimum,C11,Salaried_MNC
+5,A5,56,BANGALORE,Platimum,C5,"Normal Salary"
+50,A50,69,COCHIN,Platimum,C12,Salaried_Pvt
+51,A51,59,BOMBAY,Platimum,C13,Govt
+52,A52,50,BANGALORE,Platimum,C14,"Normal Salary"
+53,A53,21,DELHI,Platimum,C15,"Normal Salary"
+54,A54,46,COCHIN,Platimum,C16,"Normal Salary"
+55,A55,43,PATNA,Platimum,C17,"Normal Salary"
+56,A56,60,CHENNAI,Platimum,C18,"Normal Salary"
+57,A57,37,TRIVANDRUM,Silver,C19,"Normal Salary"
+58,A58,32,CALCUTTA,Silver,C20,"Normal Salary"
+59,A59,74,BANGALORE,Silver,C21,"Normal Salary"
+6,A6,70,DELHI,Silver,C6,"Self Employed"
+60,A60,28,CALCUTTA,Gold,C22,Salaried_Pvt
+61,A61,44,COCHIN,Gold,C23,Govt
+62,A62,39,BOMBAY,Gold,C24,"Normal Salary"
+63,A63,15,BANGALORE,Gold,C25,"Self Employed"
+64,A64,77,DELHI,Gold,C26,Salaried_MNC
+65,A65,41,COCHIN,Gold,C27,Salaried_Pvt
+66,A66,77,PATNA,Gold,C28,Govt
+67,A67,54,CHENNAI,Gold,C29,"Normal Salary"
+68,A68,12,TRIVANDRUM,Silver,C30,"Self Employed"
+69,A69,33,CALCUTTA,Platimum,C31,"Self Employed"
+7,A7,26,COCHIN,Silver,C7,Salaried_MNC
+70,A70,16,BOMBAY,Platimum,C32,"Self Employed"
+71,A71,34,BOMBAY,Platimum,C33,"Self Employed"
+72,A72,63,BANGALORE,Silver,C34,"Self Employed"
+73,A73,75,CALCUTTA,Silver,C35,"Self Employed"
+74,A74,51,COCHIN,Silver,C36,"Self Employed"
+75,A75,36,BOMBAY,Silver,C37,"Self Employed"
+76,A76,66,BANGALORE,Silver,C38,"Self Employed"
+77,A77,35,BANGALORE,Silver,C39,"Self Employed"
+78,A78,71,CALCUTTA,Silver,C40,"Self Employed"
+79,A79,60,COCHIN,Silver,C41,Govt
+8,A8,67,PATNA,Silver,C8,Salaried_Pvt
+80,A80,39,BOMBAY,Silver,C3,Govt
+81,A81,65,BANGALORE,Gold,C4,Govt
+82,A82,52,DELHI,Gold,C5,Govt
+83,A83,37,COCHIN,Platimum,C6,Govt
+84,A84,70,PATNA,Silver,C7,Govt
+85,A85,59,CHENNAI,Silver,C8,Govt
+86,A86,25,TRIVANDRUM,Silver,C9,Govt
+87,A87,27,CALCUTTA,Silver,C10,Govt
+88,A88,63,BANGALORE,Gold,C11,Govt
+89,A89,72,CALCUTTA,Gold,C12,Govt
+9,A9,79,CHENNAI,Silver,C9,Govt
+90,A90,16,COCHIN,Gold,C13,Govt
+91,A91,41,BOMBAY,Gold,C14,Govt
+92,A92,78,BANGALORE,Gold,C15,Govt
+93,A93,56,DELHI,Gold,C16,Govt
+94,A94,31,COCHIN,Gold,C17,Govt
+95,A95,62,PATNA,Gold,C18,Salaried_MNC
+96,A96,54,CHENNAI,Silver,C19,Salaried_Pvt
+97,A97,58,TRIVANDRUM,Platimum,C20,Govt
+98,A98,51,CALCUTTA,Platimum,C21,"Normal Salary"
+99,A99,35,CALCUTTA,Platimum,C22,"Self Employed"
